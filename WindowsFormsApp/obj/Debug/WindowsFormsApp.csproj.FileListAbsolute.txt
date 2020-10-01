@@ -1,0 +1,9 @@
+C:\Users\Vic Luthfi\source\repos\CalculatorApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Vic Luthfi\source\repos\CalculatorApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Vic Luthfi\source\repos\CalculatorApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Vic Luthfi\source\repos\CalculatorApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Vic Luthfi\source\repos\CalculatorApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Vic Luthfi\source\repos\CalculatorApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Vic Luthfi\source\repos\CalculatorApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Vic Luthfi\source\repos\CalculatorApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Vic Luthfi\source\repos\CalculatorApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
